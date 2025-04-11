@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://github.com/Caua-Roberto466">
-  <img height="180em" scr="https://github-readme-stats.vercel.app/api?username=caua-roberto466&show_icons=true&theme=dark&include_all_commits=true&count">
+  <img height="180em" scr="https://github-readme-stats.vercel.app/api](https://github-readme-stats.vercel.app/api)?username=caua-roberto466&show_icons=true&theme=dark&include_all_commits=true&count">
 </div>
 <!--
 **Caua-Roberto466/Caua-Roberto466** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
