@@ -9,7 +9,7 @@
 
 ###
 
-<h3 align="left">These are the aplication ​​I work with</h3>
+<h3 align="left">These are the programming languages ​​I'm learning</h3>
 
 ###
 
