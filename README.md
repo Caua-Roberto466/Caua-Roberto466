@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="center">These are the programming languages ​​I'm learning</h3>
+<h3 align="center">These are the languages ​​I'm learning</h3>
 
 ###
 
@@ -26,6 +26,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+</div>
+
+<h3 align="center">These are other things I know</h3>
+<div align="center">
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="c logo"  />
 </div>
 
 ###
