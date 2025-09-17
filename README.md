@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! I'm Cauã Roberto. I'm a programmer who always seeks to improve myself</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Caua-Roberto466&show_icons=true&theme=dark&count_private=true&cache_seconds=3200" height="145" alt="gráfico dos estatos" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Caua-Roberto466&show_icons=true&theme=dark&count_private=true&cache_seconds=3600" height="145" alt="gráfico dos estatos" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Caua-Roberto466&layout=compact&theme=dark&cache_seconds=3200" height="145" alt="gráfico das linguagens" />
 </div>
 
