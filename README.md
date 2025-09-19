@@ -34,12 +34,7 @@ Sou um programador que está sempre buscando evoluir 💡, explorando novas ling
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="45" alt="canva logo" />
 </div>
 
-<h2 align="center">🔥 Anime Vibes</h2>
 
-<p align="center">
-  <img src="https://gifs.alphacoders.com/gifs/view/219506" width="250" alt="Luffy Gear 5" />
-  <img src="https://gifs.alphacoders.com/gifs/view/219176" width="250" alt="Isagi Yoichi" />
-</p>
 
 <h2 align="center">🌐 Connect with Me</h2>
 
