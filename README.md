@@ -1,37 +1,59 @@
-<h2 align="left">Hi 👋! I'm Cauã Roberto. I'm a programmer who always seeks to improve myself</h2>
+<!-- Banner animado -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00D9F8&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Cauã+Roberto;A+passionate+programmer+🚀;Always+learning+new+technologies+✨" alt="Typing SVG" />
+</p>
+
+<h1 align="center">✨ Welcome to my GitHub ✨</h1>
+
+<p align="center">
+Sou um programador que está sempre buscando evoluir 💡, explorando novas linguagens e ferramentas para me tornar cada vez melhor. 🚀  
+</p>
+
+<h2 align="center">📊 My GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Caua-Roberto466&show_icons=true&theme=dark&count_private=true&cache_seconds=36000" height="145" alt="gráfico dos estatos" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Caua-Roberto466&layout=compact&theme=dark&cache_seconds=32000" height="145" alt="gráfico das linguagens" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Caua-Roberto466&show_icons=true&theme=tokyonight&count_private=true" height="160" alt="stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Caua-Roberto466&theme=tokyonight" height="160" alt="streak graph" />
 </div>
-
-
-###
-
-<h3 align="center">These are the languages ​​I'm learning</h3>
-
-###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Caua-Roberto466&layout=compact&theme=tokyonight" height="160" alt="top langs" />
 </div>
 
-<h3 align="center">These are other things I know</h3>
+<h2 align="center">🚀 Languages I'm Learning</h2>
+
 <div align="center">
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="c logo"  />
+  <img src="https://skillicons.dev/icons?i=html,css,python,java,javascript,php,c&theme=dark" />
 </div>
 
-###
+<h2 align="center">✨ Other Skills</h2>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=figma,git,github,vscode&theme=dark" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="45" alt="canva logo" />
+</div>
+
+<h2 align="center">🔥 Anime Vibes</h2>
+
+<p align="center">
+  <img src="https://gifs.alphacoders.com/gifs/view/219506" width="250" alt="Luffy Gear 5" />
+  <img src="https://gifs.alphacoders.com/gifs/view/219176" width="250" alt="Isagi Yoichi" />
+</p>
+
+<h2 align="center">🌐 Connect with Me</h2>
+
+<p align="center">
+  <a href="https://github.com/Caua-Roberto466" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/seuusuario" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</p>
+
+<h3 align="center">⚡ Made with passion by <b>Cauã Roberto</b> ⚡</h3>
