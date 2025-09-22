@@ -14,7 +14,7 @@ I'm a programmer who is always looking to evolve ðŸ’¡, exploring new languages â
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Caua-Roberto466&show_icons=true&theme=tokyonight&count_private=true" height="160" alt="stats graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Caua-Roberto466&theme=tokyonight" height="160" alt="streak graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Caua-Roberto466&theme=tokyonight" height="160" alt="" />
 </div>
 
 <div align="center">
