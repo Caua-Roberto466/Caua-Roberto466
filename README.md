@@ -52,13 +52,6 @@ I'm a programmer who is always looking to evolve 💡, exploring new languages �
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
 </p>
 
-<h2 align="center">🔥 Anime Vibes</h2>
-
-<p align="center">
-  <img src="assets/gif/luffy.gif" width="250" alt="Luffy Gear 5" />
-  <img src="assets/gif/sukuna.gif" width="250" alt="Sukuna em shibuya" />
-  <img src="assets/gif/broly.gif" width="250" alt="Broly transformado" />
-</p>
 
 
 <h3 align="center">⚡ Made with passion by <b>Cauã Roberto</b> ⚡</h3>
