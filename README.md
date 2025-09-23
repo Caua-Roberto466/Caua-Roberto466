@@ -5,10 +5,7 @@
 
 <h1 align="center">✨ Welcome to my GitHub ✨</h1>
 
-<p align="center">
-
-I'm a programmer who is always looking to evolve 💡, exploring new languages ​​and tools to become better and better. 🚀  
-</p>
+<p align="center">I'm a programmer who is always looking to evolve 💡, exploring new languages ​​and tools to become better and better. 🚀  </p>
 
 <h2 align="center">📊 My GitHub Stats</h2>
 
