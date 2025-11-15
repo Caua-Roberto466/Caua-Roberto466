@@ -30,6 +30,7 @@
   <img src="https://skillicons.dev/icons?i=figma,git,github,vscode&theme=dark" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="45" alt="canva logo" />
+  <img src="assets/game maker.png" width="49"/>
 </div>
 
 
