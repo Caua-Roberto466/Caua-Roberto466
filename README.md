@@ -21,16 +21,16 @@
 <h2 align="center">🚀 Languages I'm Learning</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,python,java,javascript,php,c&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,python,java,javascript,php,c&theme=dark" title="Html, CSS, Python, Java, JavaScript, PHP & C"/>
 </div>
 
 <h2 align="center">✨ Other Skills</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=figma,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=figma,git,github,vscode&theme=dark" title="Figma, Git, Github, VSCode"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="45" alt="canva logo" />
-  <img src="assets/game maker.png" width="49"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="45" title="Canva" alt="canva logo" />
+  <img src="assets/game maker.png" title="Game Maker Studio" width="49"/>
 </div>
 
 
