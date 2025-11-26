@@ -10,8 +10,8 @@
 <h2 align="center">📊 My GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Caua-Roberto466&show_icons=true&theme=tokyonight&count_private=true" height="160" alt="stats graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Caua-Roberto466&theme=tokyonight" height="160" alt="" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Caua-Roberto466&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=3600" height="160" alt="stats graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Caua-Roberto466&theme=tokyonight&cache_seconds=3600" height="160" alt="" />
 </div>
 
 <div align="center">
