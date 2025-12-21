@@ -10,12 +10,12 @@
 <h2 align="center">📊 My GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Caua-Roberto466&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=7200" height="160" alt="stats graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Caua-Roberto466&theme=tokyonight&cache_seconds=7200" height="160" alt="streak graphic" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Caua-Roberto466&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=7200" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Caua-Roberto466&theme=tokyonight&cache_seconds=7200" height="160" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Caua-Roberto466&layout=compact&theme=tokyonight&cache_seconds=7200" height="160" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Caua-Roberto466&layout=compact&theme=tokyonight&cache_seconds=7200" height="160"  />
 </div>
 
 <h2 align="center">🚀 Languages I'm Learning</h2>
