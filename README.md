@@ -21,7 +21,7 @@
 <h2 align="center">🚀 Languages I'm Learning</h2>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,python,java,javascript,php,c&theme=dark" title="Html, CSS, Python, Java, JavaScript, PHP & C"/>
+  <img src="https://skillicons.dev/icons?i=html,css,python,java,javascript,php,c,dart&theme=dark" title="Html, CSS, Python, Java, JavaScript, PHP & C"/>
 </div>
 
 <h2 align="center">✨ Other Skills</h2>
