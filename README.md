@@ -30,7 +30,6 @@ const cauaRoberto = {
 ---
 
 ## 📊 GitHub Stats
-
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Caua-Roberto466&theme=tokyonight" width="100%" />
 </div>
@@ -40,6 +39,9 @@ const cauaRoberto = {
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Caua-Roberto466&theme=tokyonight" height="160"/>
   &nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Caua-Roberto466&theme=tokyonight" height="160"/>
+</div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Caua-Roberto466&theme=tokyonight&hide_border=true&locale=pt_BR" width="70%" />
 </div>
 
 
