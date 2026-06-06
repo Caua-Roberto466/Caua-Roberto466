@@ -20,7 +20,7 @@ const cauaRoberto = {
   location:   "Brazil 🇧🇷",
   role:       "Programmer & Lifelong Learner",
   focus:      ["Web Development", "PC application developer"],
-  tools:      ["VSCode", "Git", "GitHub", "Figma", "Canva"],
+  tools:      ["VSCode", "Git", "GitHub", "Figma", "Canva", "Android Studio"],
   learning:   ["JavaScript", "Python", "Java", "PHP", "Dart"],
   hobbies:    ["Coding 💻", "Design 🎨"],
   motto:      "Code, learn, repeat. 🔁"
