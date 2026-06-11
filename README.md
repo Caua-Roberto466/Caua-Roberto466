@@ -49,7 +49,7 @@ const cauaRoberto = {
 
 ## 🚀 Tech Stack
 
-### 🌐 Languages
+### 🌐 Languages I'm learning
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,python,java,php,c,dart&theme=dark" />
 </div>
