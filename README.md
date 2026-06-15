@@ -19,7 +19,7 @@ const cauaRoberto = {
   name:       "Cauã Roberto",
   location:   "Brazil 🇧🇷",
   role:       "Programmer & Lifelong Learner",
-  focus:      ["Web Development", "PC application developer"],
+  focus:      ["Web Development", "PC application developer", "Mobile application developer"],
   tools:      ["VSCode", "Git", "GitHub", "Figma", "Canva", "Android Studio"],
   learning:   ["JavaScript", "Python", "Java", "PHP", "Dart"],
   hobbies:    ["Coding 💻", "Design 🎨"],
